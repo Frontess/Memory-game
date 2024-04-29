@@ -3,7 +3,7 @@
 
 #### Игра аналогична игре ["Найди пару сладостей"](https://github.com/Frontess/Game_memory_sweets) и ["Найди пару цифр"](https://github.com/Frontess/Game-memory-numbers)
 
-Поле карточек и функионал выполнены в JavaScript файлы `main.js` и `card.js`
+Поле карточек и функионал выполнены в JavaScript, в папке `js` файлы `main.js` и `card.js`
 
 Таблица и новые элементы создаются в модицикации DOM, используя JavaScript.    
 

@@ -1,7 +1,7 @@
 ## Game memory numbers / Игра найди пару цифр    
 ****
 
-#### Игра аналогична игре ["Найди пару сладостей"](https://github.com/Frontess/Game_memory_sweets) и 
+#### Игра аналогична игре ["Найди пару сладостей"](https://github.com/Frontess/Game_memory_sweets) и ["Найди пару цифр"](https://github.com/Frontess/Game-memory-numbers)
 
 Поле карточек и функионал выполнены в JavaScript файлы `main.js` и `card.js`
 
